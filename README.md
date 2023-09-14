@@ -13,9 +13,9 @@ npm i
 ### Setup MongoDB URL
 
 In `.env`:
-
+In case your database is at different place then replace here
 ```js
- DB_URL = ''; // DB URI
+ DB_URL = 'mongodb+srv://jayeshplusinfosys:j913lvSkRmxrYYAi@cluster0.qgmii5v.mongodb.net/'; // DB URI
 ```
 
 ### Start the app
